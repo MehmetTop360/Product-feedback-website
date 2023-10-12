@@ -4,7 +4,7 @@ This project was created as the capstone project for Module 2, Sprint 4 at Turin
 
 ## The Challenge
 
-Users should be able to:
+Users are be able to:
 
 - View the optimal layout for the app depending on their device's screen size.
 - See hover states for all interactive elements on the page.
