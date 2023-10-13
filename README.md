@@ -65,7 +65,7 @@ npm run build
 ```
 **Runs the E2E tests**
 ```sh
-npm run test:e2e
+npx playwright test
 ```
 # Linting and code formatting:
 **Lint with ESLint**
