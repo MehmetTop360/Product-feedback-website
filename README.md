@@ -1,6 +1,6 @@
 # Frontend Mentor - Product Feedback App Solution
 
-This project was created as the capstone project for Module 2, Sprint 4 at Turing College. This task was open-ended, so I opted to try the [Product feedback app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-feedback-app-wbvUYqjR6). Frontend Mentor challenges provide opportunities to improve coding skills by building realistic projects. Click this link for a [live](https://www.frontendmentor.io/challenges/product-feedback-app-wbvUYqjR6) version 
+This project was created as the capstone project for Module 2, Sprint 4 at Turing College. This task was open-ended, so I opted to try the [Product feedback app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-feedback-app-wbvUYqjR6). Frontend Mentor challenges provide opportunities to improve coding skills by building realistic projects. Click this link for a [live](https://mt-product-feedback.netlify.app/) version 
 
 ## The Challenge
 
